@@ -28,12 +28,14 @@
 ---
 
 ###安装依赖
+>cd react-redux-demo
+
 >npm install
 
 ***
 
 ###运行
->cd react-redux-demo
+
 >npm start
 
 ***
