@@ -30,10 +30,13 @@
 ###安装依赖
 >npm install
 
----
+***
+
 ###运行
 >cd react-redux-demo
 >npm start
+
+***
 
 ###访问
 >http://localhost:3000
